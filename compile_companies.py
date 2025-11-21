@@ -23,7 +23,7 @@ company_counter = 1
 
 for sector, base_url in tqdm(urls.items(), desc="Sectors"):
     print(f"\nScraping sector {sector}")
-    for page in tqdm(range(1, num_pages)):
+    for page in tqdm(range(1, num_pages+1)):
         url_page = base_url + str(page)
         print(f"Fetching {url_page} ...")
         time.sleep(random.uniform(2, 4))  # try not to get barred 
