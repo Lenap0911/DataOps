@@ -19,11 +19,11 @@ while num_pages is None:
         print(f"Enter a valid integer: ")
  
 company_data = {}
-company_counter = 0
+company_counter = 1
 
-for sector, base_url in tqdm(urls, desc="Sectors"):
+for sector, base_url in tqdm(urls.items(), desc="Sectors"):
     print(f"\nScraping sector {sector}")
-    for page in tqdm.tqdm(range(0, num_pages)):
+    for page in tqdm(range(1, num_pages)):
         url_page = base_url + str(page)
         print(f"Fetching {url_page} ...")
         time.sleep(random.uniform(2, 4))  # try not to get barred 
@@ -35,7 +35,7 @@ for sector, base_url in tqdm(urls, desc="Sectors"):
         companies = []
 
         # Find company card wrappers
-        for a in soup.find_all("a", class_="hover:cursor-pointer hover:no-underline"):
+        for a in tqdm(soup.find_all("a", class_="hover:cursor-pointer hover:no-underline"), desc=f"Processing companies on page {page}"):
             href = a.get("href", "")
             if not href.startswith("/organisatieprofiel/"):
                 continue
@@ -48,11 +48,35 @@ for sector, base_url in tqdm(urls, desc="Sectors"):
             loc_div = a.find("div", class_="text-page-foreground-light/50 text-sm")
             location = loc_div.get_text(strip=True) if loc_div else None
 
+            # Navigate to company data page
+            company_data_url = a.get("href", "")
+            comp_resp = requests.get("https://companyinfo.nl" + company_data_url)
+            comp_resp.raise_for_status()
+            comp_soup = BeautifulSoup(comp_resp.text, "html.parser")
+
+            website = None
+
+            # Find div with contact information
+            contact_div = None
+            for div in comp_soup.find_all("div", class_=lambda x: x and "flex" in x or True):
+                if div.get_text(strip=True).startswith("Contact gegevens"):
+                    contact_div = div
+                    break
+
+            if contact_div:
+                # Find company website
+                a_tag = contact_div.find("a", href=True)
+                if a_tag:
+                    website = a_tag["href"]
+                    if website.startswith("//"):
+                        website = "https:" + website
+            # store company data in dataframe
             if name:
                 company_info = {
                     "id": company_counter,
                     "name": name,
                     "location": location,
+                    "website": website
                 }
                 companies.append(company_info)
                 company_data[company_counter] = company_info
@@ -61,11 +85,8 @@ for sector, base_url in tqdm(urls, desc="Sectors"):
             print(f"No companies found on page {page}, stopping.")
             break
 
-# convert to df
+# store in json format
 df = pd.DataFrame(company_data.values())
-
-# save to csv
 df.to_csv("companies.csv", index=False, encoding="utf-8")
 
 print(f"Saved {len(df)} companies to companies.csv")
-
