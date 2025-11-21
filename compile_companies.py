@@ -3,10 +3,12 @@ from bs4 import BeautifulSoup
 import time
 import random
 import pandas as pd
-urls = [
-    "https://companyinfo.nl/branche/groothandel-46?page=",
-    "https://companyinfo.nl/branche/opslag-521?page="
-]
+from tqdm import tqdm
+
+urls = {
+    "Groothandel": "https://companyinfo.nl/branche/groothandel-46?page=",
+    "Opslag": "https://companyinfo.nl/branche/opslag-521?page="
+}
 
 num_pages = None
 
@@ -19,9 +21,10 @@ while num_pages is None:
 company_data = {}
 company_counter = 0
 
-for url in urls:
-    for page in range(0, num_pages):
-        url_page = url + str(page)
+for sector, base_url in tqdm(urls, desc="Sectors"):
+    print(f"\nScraping sector {sector}")
+    for page in tqdm.tqdm(range(0, num_pages)):
+        url_page = base_url + str(page)
         print(f"Fetching {url_page} ...")
         time.sleep(random.uniform(2, 4))  # try not to get barred 
         
