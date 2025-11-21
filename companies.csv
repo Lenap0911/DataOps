@@ -139,143 +139,863 @@ id,name,location,website
 138,PETROBRAS INTERNATIONAL BRASPETRO B.V.,Rotterdam,https://petrobras.com.br
 139,Royal Reesink B.V.,Apeldoorn,https://royalreesink.com
 140,ACOMO N.V.,Rotterdam,https://acomo.nl
-141,Gunvor International B.V.,Amsterdam,https://gunvorgroup.com
-142,Esso Nederland B.V.,Botlek Rotterdam,https://esso.nl
-143,Samsung Electronics Europe Logistics B.V.,Delft,https://samsung.com
-144,LATAM AIRLINES GROUP S.A.,Schiphol,https://latamairlinesgroup.net
-145,Koninklijke A-ware Food Group B.V.,Lopik,https://royal-aware.com
-146,Stryker EMEA Supply Chain Services B.V.,Venlo,https://stryker.com
-147,Raben Group N.V.,Oss,https://raben-group.com
-148,Hametha B.V.,Oosterhout,https://hametha.nl
-149,FedEx Express International B.V.,Hoofddorp,https://fedex.com
-150,Handelsveem Beheer B.V.,Rotterdam,https://steinweg.com
-151,Koninklijke Vopak N.V.,Rotterdam,https://vopak.com
-152,N.V. Nederlandse Gasunie,Groningen,https://gasunie.nl
-153,Lineage Dutch CoÃ¶peratief U.A.,Amsterdam,https://lineagelogistics.com
-154,Van Loon Group B.V.,Son en Breugel,https://vanloongroup.com
-155,Seagate Technology (Netherlands) B.V.,Schiphol-Rijk,https://seagate.com
-156,Stolt Tankers B.V.,Rotterdam,https://stolt.nielsen.com
-157,Van Rooi Meat B.V.,Helmond,https://vanrooimeat.nl
-158,CoÃ¶peratie The Greenery U.A.,Barendrecht,https://thegreenery.com
-159,Industrie- en Handelsonderneming Vreugdenhil B.V.,Nijkerk,https://vreugdenhil.com
-160,G.P. Groot B.V.,Heiloo,https://gpgroot.nl
-161,AFG Materials B.V.,Lopik,https://royal-aware.com
-162,Schenker Logistics Nederland B.V.,Tilburg,https://dbschenker.com/nl
-163,Medline International B.V.,Utrecht,https://medline.eu
-164,Neste Netherlands B.V.,Maasvlakte Rotterdam,https://neste.nl
-165,Jan Linders B.V.,Bergen L,https://janlinders.nl
-166,FedEx Express Netherlands B.V.,Hoofddorp,https://fedex.com/nl
-167,BC Distribution B.V.,Woerden,https://beckman.com
-168,BlueStar Europe Distribution B.V.,'s-Gravenhage,https://bluestarinc.com
-169,Scherpenhuizen Holding B.V.,Eindhoven,https://scherpenhuizen.nl
-170,Vertom B.V.,Rhoon,https://vertom.nl
-171,Vergeer Holding B.V.,Reeuwijk,https://vergeerholland.com
-172,ALDI Deventer B.V.,Deventer,https://aldi.nl
-173,DSV Air&Sea Rozenburg,Rozenburg,https://dsv.com/nl
-174,Tamoil Nederland B.V.,Ridderkerk,https://tamoil.nl
-175,NewCold CoÃ¶peratief U.A.,Breda,https://newcold.com
-176,Fresh Trading Supply B.V.,Europoort Rotterdam,
-177,Nichirei Holding Holland B.V.,Rotterdam-Albrandswaard,https://nichirei-logi.co.jp
-178,Agrico,Emmeloord,https://agrico.nl
-179,Amaggi Europe B.V.,Rotterdam,https://amaggi.eu
-180,Decathlon Netherlands B.V.,Amsterdam,https://decathlon.nl
-181,Reputation,De Lier,https://reputation.nl
-182,Obot,Bergen op Zoom,https://sakkogroep.nl
-183,Combilo Beheer B.V.,Waddinxveen,https://combilo.nl
-184,Van Wijk en Olthuis B.V.,Dronten,https://wijkenolthuis.nl
-185,Van Wijk en Olthuis Beheer B.V.,Dronten,https://wijkenolthuis.nl
-186,ID Logistics Benelux B.V.,Tilburg,https://id-logistics.com
-187,Medtronic B.V.,Heerlen,
-188,O. Smeding en Zoon B.V.,St.-Annaparochie,https://smeding.nl
-189,Frankort & Koning B.V.,Venlo,https://frankort.nl
-190,Daiwa House Modular Europe Jan Snel B.V.,Montfoort,https://daiwahousemodular.eu
-191,Rotterdam World Gateway B.V.,Maasvlakte Rotterdam,https://rwg.nl
-192,Nippon Express (Nederland) B.V.,Schiphol-Rijk,https://nipponexpress.com
-193,Dachser Netherlands B.V.,Zevenaar,https://dachser.nl
-194,Fransen Gerrits,Erp,https://fransengerrits.nl
-195,Roveg Onroerend Goed B.V.,Linschoten,https://roveg.nl
-196,Gate terminal,Maasvlakte Rotterdam,https://gateterminal.nl
-197,Peka Kroef B.V.,Odiliapeel,https://pekakroef.nl
-198,Luiten Food B.V.,Leidschendam,https://luitenfood.com
-199,Koopman Logistics Group B.V.,Leek,https://koopman.nl
-200,Van Oers United B.V.,Dinteloord,https://primealeunited.com
-201,Rotom Europe B.V.,Son en Breugel,https://rotom.nl
-202,Van den Bosch,Erp,https://vandenbosch.com
-203,TP Haluco Holding B.V.,Bleiswijk,https://haluco.nl
-204,Verhey Vlees,Nuth,https://vanloongroup.com
-205,DSV Road B.V.,Sevenum,https://dsv.com
-206,Hessing Zwaagdijk B.V.,Zwaagdijk-Oost,https://hessingsupervers.nl
-207,Staay Food Group B.V.,Papendrecht,
-208,Van der Vlist Transportgroep B.V.,Groot-Ammers,https://vandervlist.com
-209,J.A.M. de Rijk B.V.,Roosendaal,https://janderijk.com
-210,Nederlandse Particuliere Rijnvaart-Centrale CoÃ¶peratie U.A. (bij afkorting CoÃ¶peratie N.P.R.C. U.A.),Rotterdam,https://nprc.eu
-211,Dunea N.V.,Zoetermeer,https://dunea.nl
-212,Vogelaar-Vredehof Beheer B.V.,Krabbendijke,https://vogelaar.com
-213,Koninklijke Vezet B.V.,Warmenhuizen,https://vezet.nl
-214,DLG Logistics B.V.,Nieuwe-Tonge,https://dlg-logistics.com
-215,Van de Reyt Meststoffen B.V.,Moerdijk,https://vdreijtfert.nl
-216,HES Bulk Terminal Rotterdam B.V.,Maasvlakte Rotterdam,https://hesinternational.eu
-217,Banken Champignons Groep B.V.,Wijchen,https://bankenchampignons.com
-218,Den Hartogh Global B.V.,Rotterdam,https://denhartogh.com
-219,Central European Potato Ventures B.V.,Oudenhoorn,
-220,Meeder Management B.V.,Barendrecht,https://meeder.nl
-221,Chane Terminal Botlek B.V.,Rotterdam,https://chane.eu
-222,DeliBarn Nederland B.V.,Wijchen,https://langeveld-sleegers.nl
-223,Marees en Kistemaker B.V.,Kolhorn,https://avia-international.com
-224,Vogelaar-Vredehof B.V.,Krabbendijke,https://vogelaar.com
-225,Nabuurs B.V.,Haps,https://nabuurs.nl
-226,KLG Europe Venlo B.V.,Venlo,https://klgeurope.com
-227,Match Venlo Holding B.V.,Venlo,https://jp-international.nl
-228,Farm Trans B.V.,Zevenbergen,https://farmtrans.com
-229,Slagerij Kaldenberg B.V.,Vuren,https://kaldenberg.nl
-230,J.H.C. de Rooy Holding B.V.,Son en Breugel,https://derooy.com
-231,G.M. de Rooy & Zn. Internationaal Transportbedrijf Eindhoven B.V.,Son en Breugel,https://derooy.com
-232,Nedato B.V.,Oud-Beijerland,https://nedato.nl
-233,Koninklijke Euser B.V.,Barendrecht,https://euser.nl
-234,DMT B.V.,Maasvlakte Rotterdam,https://ect.nl
-235,Seacon Logistics B.V.,Venlo,https://seaconlogistics.com
-236,BioCore B.V.,Amsterdam,https://biocore.nl
-237,Wegochem Europe B.V.,Breda,https://wegochem.com
-238,Goodpack Europe B.V.,Maastricht-Airport,https://goodpack.com
-239,A2B-online Container B.V.,Hazerswoude-Dorp,https://a2b-online.com
-240,GEODIS CL Netherlands B.V.,Venlo,https://geodis.com
-241,Berner Logistics Kerkrade B.V.,Kerkrade,https://shop.berner.eu
-242,ID Freight Netherlands B.V.,Tilburg,https://gvt.nl
-243,Verhoek Internationaal Transport B.V.,Genemuiden,https://verhoek-europe.com
-244,Limax Holding B.V.,Horst,https://limax.nl
-245,Van Ravenswaaij Veenendaal Beheer B.V.,Veenendaal,https://ravenswaaij.nl
-246,Wrist-Klevenberg Ship Supply NL B.V.,Rotterdam,https://klevenberg.com
-247,Stichting Centraal Orgaan Voorraadvorming Aardolieproducten,Rotterdam,https://cova.nl
-248,JAS Forwarding (Netherlands) B.V.,Aalsmeer,https://jas.com
-249,GXO LOGISTICS NETHERLANDS B.V.,Eindhoven,https://xpo.com
-250,Schavemaker Logistics B.V.,Beverwijk,https://schavemaker.com
-251,Garmin Nederland B.V.,Eemnes,https://garmin.com
-252,Matrans Rotterdam Terminal B.V.,Pernis Rotterdam,https://matransrotterdamterminal.com
-253,Raben Netherlands B.V.,Oss,https://nederland.raben-group.com
-254,Oegema Transport Dedemsvaart B.V.,Dedemsvaart,https://oegematransport.nl
-255,Heijs Food Products B.V.,Hoogeveen,https://heijsfoodproducts.nl
-256,Tielbeke Logistiek B.V.,Lemelerveld,https://tielbeke.com
-257,Beheer- en Exploitatiemaatschappij Zijderlaan B.V.,Stolwijk,https://zijderlaan.nl
-258,Toll Global Forwarding,Rotterdam,https://tollgroup.com
-259,Getru Holding B.V.,Bleiswijk,
-260,Getru Logistics B.V.,Bleiswijk,https://getru.nl
-261,Zeevisgroothandel V.S.V.-van Slooten Vis IJmuiden,Ijmuiden,https://vsv-ijmuiden.nl
-262,Nedcargo Transport & Distributie B.V.,Haaften,https://nedcargo.com
-263,TNT Holdings B.V.,Hoofddorp,https://tnt.com
-264,Post Vastgoed B.V.,Finsterwolde,https://pkfpost.nl
-265,Plukon Convenience Dronten B.V.,Dronten,https://plukon.nl
-266,LOGISTEED Europe B.V.,Waardenburg,
-267,Menken Vleeswarensnijlijn B.V.,Sassenheim,https://demenkenkeuken.nl
-268,Transportonderneming Zijderlaan B.V.,Stolwijk,https://zijderlaan.nl
-269,Evos Amsterdam West B.V.,Amsterdam,https://evos.eu
-270,REMONDIS Containers B.V.,Son en Breugel,https://remondisnederland.nl
-271,Nedcargo Logistics B.V.,Haaften,https://nedcargo.com
-272,LPR Europe B.V.,Rijswijk,https://europoolgroup.com
-273,Lavenir Beheer B.V.,Harskamp,https://polskamp.nl
-274,Unit 45 B.V.,Rotterdam,https://unit45.com
-275,Pluimveeslachterij Gebr. Heijs B.V.,Leek,https://heijsgroep.nl
-276,Kees in 't Veen Beheer B.V.,Europoort Rotterdam,https://itt-europoort.nl
-277,Sieuwerd Pieters B.V.,Leeuwarden,https://pax.nl
-278,Bege Beheer B.V.,Ijsselmuiden,https://wezenberg.nl
-279,Mitsubishi Logistics Europe B.V.,Ridderkerk,https://mitsubishi-logistics.co.jp
-280,Evos Amsterdam East B.V.,Amsterdam,https://evos.eu
+141,Broekhuis Dealer Holding B.V.,Putten,https://broekhuis.nl
+142,Copaco N.V.,Eindhoven,https://copaco.com
+143,Theobroma B.V.,Amsterdam,
+144,Copaco DC B.V.,Eindhoven,https://copaco.com
+145,ERIKS N.V.,Alkmaar,https://eriks.com
+146,Corbion N.V.,Amsterdam,https://corbion.com
+147,Enviem Retail Holding B.V.,Harderwijk,https://enviem.nl
+148,TD SYNNEX Netherlands B.V.,Bodegraven,https://techdata.nl
+149,Stellantis Nederland B.V.,Amsterdam,https://stellantis.com
+150,BUNZL Outsourcing Services B.V.,Almere,https://bunzl.nl
+151,TotalEnergies Marketing Nederland N.V.,'s-Gravenhage,https://totalenergies.nl
+152,International Flavors & Fragrances I.F.F. (Nederland) B.V.,Hilversum,https://iff.com
+153,Burando Energies,Pernis Rotterdam,https://trefoil.nl
+154,IMCD Finance B.V.,Rotterdam,https://imcdgroup.com
+155,Acer Europe B.V.,'s-Hertogenbosch,https://acer.nl
+156,Refresco Holding B.V.,Rotterdam,https://refresco.com
+157,Shin-Etsu International Europe B.V.,Amsterdam,https://shinetsu.co.jp
+158,Sensata Technologies Holland B.V.,Hengelo,https://sensata.com
+159,FUJIFILM Europe B.V.,Tilburg,https://fujifilm.eu
+160,BASF Nederland B.V.,Arnhem,https://basf.nl
+161,Plantronics International,Amstelveen,https://plantronics.com
+162,Vibra Trading B.V.,Rotterdam,https://vibraenergia.com.br
+163,Agfa NV - Dutch Branch,Rijswijk,https://agfa.net
+164,Qizini Bakery Kitchen Alphen B.V.,Alphen aan den Rijn,https://qizini.com
+165,Rockwell Automation B.V.,Rotterdam,https://rockwellautomation.com
+166,EBV Elektronik GmbH,Utrecht,
+167,LKQ Benelux-France Holding B.V.,Rotterdam,https://fource.nl
+168,Abbott Vascular Netherlands B.V.,Heerlen,https://abbottnederland.nl
+169,Cisco Systems International B.V.,Amsterdam,https://cisco.nl
+170,Hitachi Construction Machinery (Europe) N.V.,Amsterdam,https://hitachicm.com
+171,Ricoh Europe SCM B.V.,Bergen op Zoom,https://ricoh-europe.com
+172,Astellas Pharma Europe Ltd.,Leiden,https://astellas.eu
+173,Eni Algeria Exploration B.V.,Amsterdam,https://eni.com
+174,Sucden Coffee Netherlands B.V.,Amsterdam,https://sucden.com
+175,Unilever Nederland,Rotterdam,https://unilever.nl
+176,Numidia Holding B.V.,Herten,https://numidiadairy.com
+177,Alliance Nederland B.V.,Veghel,https://alliance-healthcare.nl
+178,Coca-Cola HBC Sourcing B.V.,Amsterdam,https://coca-colahellenic.com
+179,MURATA ELECTRONICS EUROPE B.V.,Hoofddorp,https://murata.com
+180,De MandemakersGroep Holding B.V.,Waalwijk,https://werkenbijmandemakers.nl
+181,Rensa Groep B.V.,Didam,https://rensa.nl
+182,Horedo Doetinchem B.V.,Didam,https://rensa.nl
+183,Mercedes-Benz Nederland B.V.,Nieuwegein,https://mercedes-benz.nl
+184,Bidfood B.V.,Ede,https://bidfood.nl
+185,Copaco Nederland B.V.,Eindhoven,https://copaco.com
+186,MCB International B.V.,Valkenswaard,https://mcb.eu
+187,Alliance Healthcare Nederland B.V.,Veghel,https://alliance-healthcare.nl
+188,Cnova N.V.,Amsterdam,https://cnova.com
+189,AbbVie Pharmaceuticals B.V.,Zwolle,https://abbvie.nl
+190,Vreugdenhil Groep B.V.,Nijkerk,https://vreugdenhil.nl
+191,Agrifirm International B.V.,Apeldoorn,https://agrifirm.com
+192,Orim Energy B.V.,Bergen op Zoom,https://orim-energy.com
+193,Bayer Medical Care B.V.,Maastricht,https://bayer.com
+194,TP Vision Europe B.V.,Amsterdam,https://tpvision.com
+195,Uniper Benelux N.V.,Rotterdam,https://uniper.energy
+196,M & A van Rooi Lieshout Holding B.V.,Helmond,https://vanrooigroup.com
+197,Seagate Technology (Netherlands) B.V.,Schiphol-Rijk,https://seagate.com
+198,Caldic B.V.,Rotterdam,https://caldic.com
+199,Kia Nederland B.V.,Breukelen,https://kia.nl
+200,TelerscoÃ¶peratie Oxin Growers U.A.,Barendrecht,https://oxin-growers.nl
+201,Enpal B.V.,,
+202,Sparkoo Technologies B.V.,Rijswijk,https://huawei.com
+203,Roba Holding B.V.,Ijsselstein,https://robametals.com
+204,COFCO International Netherlands B.V.,Rotterdam,https://cofcointernational.com
+205,Lenovo Technology B.V.,Amsterdam,https://lenovo.com
+206,Geveke N.V.,Amsterdam,https://geveke.com
+207,INTER-SPRINT BANDEN B.V.,Moerdijk,https://inter-sprint.nl
+208,Tata Consultancy Services Netherlands B.V.,Amsterdam,https://tcs.com
+209,Iddink Learning Materials B.V.,Ede,https://iddink.nl
+210,Ford Nederland B.V.,Amstelveen,https://ford.nl
+211,OCI Nitrogen B.V.,Sittard,https://oci.nl
+212,Hoogvliet Super B.V.,Bleiswijk,https://hoogvliet.com
+213,European Metal Recycling B.V.,Botlek Rotterdam,https://nl.emrgroup.com
+214,ASICS Europe B.V.,Hoofddorp,https://asics.com
+215,NestlÃ© Nederland B.V.,Amstelveen,https://nestle.nl
+216,Gro-An Commissie- en Handelsonderneming B.V.,Giessen,https://groan.nl
+217,Timber and Building Supplies Holland N.V.,Zaandam,https://tabsholland.nl
+218,Canon Production Printing Holding B.V.,Venlo,https://cpp.canon
+219,"Metaalcompagnie ""Brabant""",Valkenswaard,https://mcb.nl
+220,Eastman Chemical B.V.,Rotterdam,https://eastman.com
+221,ENVIEM Oil Nederland B.V.,Den Helder,https://gulf.nl
+222,Coca-Cola Europacific Partners Nederland B.V.,Rotterdam,https://cocacolaep.com
+223,Metro Distributie Nederland B.V.,Amsterdam-Duivendrecht,https://makro.nl
+224,Ingram Micro,Utrecht,https://ingrammicro.com
+225,Wilmar Europe Trading B.V.,Rotterdam,
+226,Van Kessel Olie B.V.,Milheeze,https://vankesselolie.nl
+227,Boskalis Westminster International B.V.,Papendrecht,https://boskalis.com
+228,Vestel Holland B.V.,Rotterdam,https://vestel.com.tr
+229,Chiquita Europe B.V.,Gorinchem,https://chiquita.com
+230,CoÃ¶peratie Koninklijke Avebe U.A.,Veendam,https://avebe.com
+231,Van Rooi Meat B.V.,Helmond,https://vanrooimeat.nl
+232,Hanon Systems Netherlands CoÃ¶peratief U.A.,Heerlen,https://hanonsystems.com
+233,Azule Energy Angola B.V.,Amsterdam,https://azule-energy.com
+234,Westfort Vleesproducten,Ijsselstein,https://westfort.nl
+235,Medux International Holding B.V.,Utrecht,https://medux.nl
+236,Fleura-Metz Holding B.V.,De Kwakel,https://fmgroup.fm
+237,CoÃ¶peratie The Greenery U.A.,Barendrecht,https://thegreenery.com
+238,The Greenery B.V.,Barendrecht,https://thegreenery.com
+239,Crocs Europe B.V.,Hoofddorp,https://crocs.eu
+240,Thales Nederland,Hengelo,https://thales-nederland.nl
+241,SK Enmove Europe B.V.,Amsterdam,https://skenmove.com
+242,HKS Metals,Moerdijk,https://hksmetals.eu
+243,Converse Netherlands B.V.,Hilversum,https://converse.com
+244,Univar Solutions B.V.,Rotterdam,https://univarsolutions.com
+245,De Haan Minerale OliÃ«n B.V.,Oosterhout,https://tankstation.nl
+246,DocMorris N.V.,Heerlen,https://docmorris.de
+247,Yamazaki Mazak Nederland B.V.,Houten,https://mazakeu.be
+248,Spar Holding B.V.,Waalwijk,https://sparholding.nl
+249,Industrie- en Handelsonderneming Vreugdenhil B.V.,Nijkerk,https://vreugdenhil.com
+250,KYOCERA Document Solutions Europe Management B.V.,Schiphol-Rijk,https://kyoceradocumentsolutions.eu
+251,Scania Nederland B.V.,Breda,https://scania.nl
+252,LONGi (Netherlands) Trading B.V.,Rotterdam,
+253,Ausnutria B.V.,Zwolle,https://ausnutria.nl
+254,Euretco B.V.,Amersfoort,https://euretco.com
+255,Oryx Stainless Holding B.V.,Dordrecht,https://oryx.com
+256,Zevij-Necomij B.V.,Oosterhout,https://zevij-necomij.com
+257,Barentz International B.V.,Hoofddorp,https://barentz.com
+258,Zevij,Oosterhout,https://zevij-necomij.com
+259,Trafigura Ventures V B.V.,Schiphol,https://trafigura.com
+260,Eni Iraq B.V.,Amsterdam,https://eni.com
+261,Certis Belchim B.V.,Utrecht,https://certisbelchim.com
+262,Applied Materials Europe B.V.,Hoofddorp,https://appliedmaterials.com
+263,Fuite Group B.V.,Genemuiden,https://fuite.nl
+264,Super Micro Computer B.V.,'s-Hertogenbosch,https://supermicro.com
+265,CBS International (Netherlands) B.V.,Amsterdam,https://cbs.com
+266,Van den Ban Autobanden B.V.,Hellevoetsluis,https://vandenban.nl
+267,Vion Trading B.V.,Groenlo,https://vionfoodgroup.com
+268,NIKE Europe Holding B.V.,Hilversum,https://nike.com
+269,Agip Karachaganak B.V.,Amsterdam,https://eni.com
+270,Hewlett-Packard Nederland B.V.,Amstelveen,https://hpe.com
+271,Farmel Holding B.V.,Emmeloord,https://farmel.nl
+272,Life Technologies Europe B.V.,Bleiswijk,https://thermofisher.com
+273,Kramer Food Family B.V.,Warmenhuizen,https://kramerfoodfamily.com
+274,Speyzer Holding B.V.,Eindhoven,https://edco.nl
+275,Penthol B.V.,Amsterdam,https://penthol.com
+276,Kawasaki Motors Europe N.V.,Hoofddorp,https://kawasaki.nl
+277,Wessanen B.V.,Amsterdam,https://wessanen.com
+278,Rijk Zwaan Top Holding B.V.,De Lier,https://rijkzwaan.com
+279,Rijk Zwaan Zaadteelt en Zaadhandel B.V.,De Lier,https://rijkzwaan.com
+280,Rijksinstituut voor Volksgezondheid en Milieu (RIVM),Bilthoven,https://rivm.nl
+281,Roba Metals B.V.,Ijsselstein,https://robametals.com
+282,Koninklijke Zeelandia Groep B.V.,Zierikzee,https://zeelandia.nl
+283,Coop Groothandel B.V.,Utrecht,
+284,Viking Direct,Venlo,https://vikingoffice.eu
+285,Foot Locker Europe B.V.,Utrecht,https://footlocker.eu
+286,Vanderlande Industries B.V.,Veghel,https://vanderlande.com
+287,Autofood Liesveld B.V.,Groot-Ammers,https://denhartogbv.com
+288,Brokking Groep B.V.,Almere,https://brokkinggroep.eu
+289,Salor Spakenburg B.V.,Bunschoten-Spakenburg,https://heinenhopman.com
+290,Haba Trading B.V.,Venlo,
+291,Meatpoint B.V.,Almelo,https://zwanenberg.nl
+292,Boskalis International B.V.,Papendrecht,https://boskalis.com
+293,Saint-Gobain Nederland Beheer B.V.,Breda,https://saint-gobain-benelux.com
+294,CZAV,Wemeldinge,https://czav.nl
+295,Van Merksteijn Steel Holding B.V.,Almelo,https://van-merksteijn.nl
+296,Mitsubishi Turbocharger and Engine Europe,Almere,https://mtee.eu
+297,Rijnoever Holding B.V.,Alphen aan den Rijn,https://schoutenenergy.nl
+298,NETTORAMA GROEP B.V.,Oosterhout,
+299,Medline International B.V.,Utrecht,https://medline.eu
+300,DMV International,Amersfoort,https://dmv-international.com
+301,Shell Energy Europe B.V.,'s-Gravenhage,https://shell.com/energy
+302,MAIN Energie,Almere,https://audaxrenewables.nl
+303,Jodi Energy B.V.,Groot-Ammers,https://gt24.nl
+304,L'OrÃ©al Nederland B.V.,Hoofddorp,https://loreal.com
+305,Gebroeders Van Beek Holding B.V.,Wehl,https://vanbeekgroup.com
+306,Conair CoÃ¶peratief U.A.,De Bilt,
+307,Trinseo Netherlands B.V.,Hoek,https://trinseo.com
+308,Interface Europe B.V.,Scherpenzeel,https://interface.com
+309,TP-LINK Enterprises Netherlands B.V.,Nieuwegein,https://tp-link.com
+310,Pallieter Group B.V.,Eindhoven,https://pallieter.com
+311,Forbo NL Holding B.V.,Assendelft,https://forbo.com
+312,Byd Europe B.V.,Schiedam,https://byd.com
+313,OK Oliecentrale B.V.,Breda,https://oliecentrale.nl
+314,Den Hartog B.V.,Groot-Ammers,https://denhartogbv.com
+315,BASF Agrochemical Products B.V.,Arnhem,https://basf.nl
+316,Macsteel International Trading B.V.,Amsterdam,https://macsteelinternational.com
+317,Canon Medical Systems Europe B.V.,Amstelveen,https://eu.medical.canon
+318,Paridaans en Liebregts B.V.,'s-Hertogenbosch,https://paligroup.nl
+319,ADAMA Fahrenheit B.V.,Leusden,https://adama.com
+320,Victron Energy B.V.,Almere,https://victronenergy.com
+321,Sonos Europe B.V.,Hilversum,https://sonos.com/eu
+322,Lely Industries N.V.,Maassluis,https://lely.com
+323,Neste Demeter B.V.,Alblasserdam,https://neste.com
+324,Brenntag Nederland B.V.,Dordrecht,https://brenntag.nl
+325,Terra Natura International B.V.,Maasdijk,https://tniholland.nl
+326,BC Distribution B.V.,Woerden,https://beckman.com
+327,Technisch Handelsbureau Rensa B.V.,Didam,https://rensa.nl
+328,De Hoop Terneuzen B.V.,Terneuzen,https://dehoop.nl
+329,Westfort Slachterij B.V.,Ijsselstein,https://westfort.nl
+330,Van Merksteijn International B.V.,Almelo,https://van-merksteijn.nl
+331,Condor Control B.V.,Hasselt,https://condor-group.eu
+332,H & M Hennes & Mauritz International B.V.,Amsterdam,https://hm.com
+333,Enphase Energy NL B.V.,'s-Hertogenbosch,https://enphase.com
+334,Mitsubishi Logisnext Europe B.V.,Almere,https://logisnext.eu
+335,Megapraxis,Amsterdam,https://praxis.nl
+336,Barry Callebaut Cocoa Netherlands B.V.,Zundert,https://barry-callebaut.com
+337,MTU Maintenance Lease Services B.V.,Amsterdam,https://mtu.de
+338,Natec Sunergy B.V.,Veghel,https://natec.nl
+339,Swinkels Family Brewers,Lieshout,https://bavaria.nl
+340,Damen Workboats B.V.,Gorinchem,https://damen.com
+341,BlueStar Europe Distribution B.V.,'s-Gravenhage,https://bluestarinc.com
+342,Scherpenhuizen Holding B.V.,Eindhoven,https://scherpenhuizen.nl
+343,Scherpenhuizen B.V.,Eindhoven,https://scherpenhuizen.nl
+344,Tronox International B.V.,Botlek Rotterdam,https://tronox.com
+345,Petronas Carigali Iraq Holding B.V.,Capelle aan den Ijssel,https://petronas.com
+346,MMD-Monitors & Displays Nederland B.V.,Amsterdam,https://mmdmonitors.com
+347,Farmel Dairy Products B.V.,Emmeloord,https://farmel.nl
+348,Nutanix Netherlands B.V.,Hoofddorp,https://nutanix.com
+349,IBM Nederland B.V.,Amsterdam,https://nl.ibm.com
+350,Arla Foods B.V.,Nijkerk,https://arla.com
+351,Continental Juice B.V.,Rotterdam,
+352,CoÃ¶peratie Royal FloraHolland U.A.,Aalsmeer,https://floraholland.com
+353,HP Indigo B.V.,Amstelveen,https://hp.com
+354,SAP Nederland B.V.,'s-Hertogenbosch,https://sap.com
+355,ETG Commodities B.V.,Amstelveen,https://etgworld.com
+356,Vergeer Holding B.V.,Reeuwijk,https://vergeerholland.com
+357,Vergeer Holland,Reeuwijk,https://vergeerholland.com
+358,Enza Zaden Beheer B.V.,Enkhuizen,https://enzazaden.nl
+359,Zeelandia H.J. Doeleman B.V.,Zierikzee,https://zeelandia.nl
+360,Catom Petroleum Distribution Management,Breda,https://catompdm.com
+361,SBIN B.V.,'s-Gravenhage,
+362,CBMM Europe B.V.,Amsterdam,https://cbmm.com
+363,Mundipharma DC B.V.,Leusden,https://mundipharma.nl
+364,Nikon Europe,Amstelveen,https://nikon.com
+365,Boon Food Group Beheer B.V.,Dordrecht,https://boonfoodgroup.nl
+366,Bieze Food Group B.V.,Nijkerk,https://biezefoodgroep.nl
+367,Ace Innovation Holding B.V.,Schiedam,https://huismanequipment.com
+368,Kraton Chemical B.V.,Almere,https://kraton.com
+369,DÃ¶hler Holland B.V.,Oosterhout,https://doehler.com
+370,Eriks B.V.,Alkmaar,https://eriks.nl
+371,ALDI Deventer B.V.,Deventer,https://aldi.nl
+372,Schouten Olie,Alphen aan den Rijn,https://schoutenenergy.nl
+373,Nieto Trading B.V.,Amsterdam,https://ntrading.nl
+374,Tamoil Nederland B.V.,Ridderkerk,https://tamoil.nl
+375,Nature's Management B.V.,Maasdijk,https://naturespride.eu
+376,Olenex Edible Oils B.V.,Vondelingenplaat Rotterdam,https://wilmareurope.nl
+377,Kraton Polymers Nederland B.V.,Almere,https://kraton.com
+378,BAS World B.V.,Veghel,https://basworld.com
+379,Hyster,Nijmegen,https://hyster-yale.com
+380,Abbott Biologicals B.V.,Weesp,https://abbott.com
+381,Westlake Epoxy B.V.,Pernis Rotterdam,https://westlakeepoxy.com
+382,LG Electronics European Shared Service Center B.V.,Amstelveen,https://lg.com
+383,Koppert Beheer B.V.,Berkel en Rodenrijs,https://koppert.nl
+384,IDEXX B.V.,Hoofddorp,https://idexx.com
+385,ABZ Diervoeding,Nijkerk,https://abzdiervoeding.nl
+386,Protinus IT B.V.,Houten,https://protinus.nl
+387,Medux B.V.,Utrecht,https://medux.nl
+388,Beko Benelux,Veghel,https://cooperatie-beko.nl
+389,Golden Arrow Olieproducten Amsterdam B.V.,Amsterdam,https://goldenarrow.nl
+390,PLANSEE Nederland,Almere,https://plansee.com
+391,Excellence New Energy B.V.,Rotterdam,
+392,Janssen Biologics B.V.,Leiden,https://janssen-biologics.nl
+393,Fresh Trading Supply B.V.,Europoort Rotterdam,
+394,HAVI Logistics B.V.,Amersfoort,https://havi.com
+395,Novartis,Amsterdam,https://novartis.nl
+396,Nichirei Holding Holland B.V.,Rotterdam-Albrandswaard,https://nichirei-logi.co.jp
+397,Hessing B.V.,Sevenum,https://hessingsupervers.nl
+398,Hessing Belfeld B.V.,Belfeld,
+399,Geris B.V.,Nederweert,https://geris.nl
+400,PricewaterhouseCoopers Advisory N.V.,Amsterdam,https://pwc.com
+401,Royal SMIT Transformers B.V.,Nijmegen,https://sgb-smit.com
+402,VE Staal B.V.,Nieuwerkerk aan den Ijssel,
+403,Faber Beheer B.V.,Eck en Wiel,https://faber.group
+404,Bausch+Lomb Netherlands B.V.,Schiphol-Rijk,https://bausch.nl
+405,Bosal Nederland B.V.,Vianen,https://bosal.com
+406,B.V. Esbro,Wehl,https://esbro.nl
+407,Royal HZPC Group B.V.,Joure,https://hzpc.com
+408,NCT Holland B.V.,Breda,https://nctww.com
+409,NCT International B.V.,Breda,https://nctww.com
+410,Agrico,Emmeloord,https://agrico.nl
+411,Arauco Europe CoÃ¶peratief U.A.,Leiden,https://arauco.cl
+412,Nettorama Merkendiscount B.V.,Oosterhout,https://nettorama.nl
+413,ALDI Groningen B.V.,Groningen,https://aldi.nl
+414,FEI Electron Optics B.V.,Eindhoven,https://fei.com
+415,Syngenta Seeds B.V.,Enkhuizen,https://syngenta.com
+416,Seafood Connection B.V.,Urk,https://seacon.eu
+417,J.P. Havens Graanhandel N.V.,Maashees,https://havens.nl
+418,Hanab Telecom Holding B.V.,Nieuwegein,https://hanab.nl
+419,Azule Energy Angola Production B.V.,Amsterdam,https://azule-energy.com
+420,Naamloze Vennootschap Linde Gas Benelux,Schiedam,https://linde-gas.nl
+421,Sciensus International B.V.,Wijchen,https://hah.co.uk
+422,E D & F Man Molasses B.V.,Amsterdam,https://manmolasses.com
+423,Interovo Beheer B.V.,Ochten,https://interovo.com
+424,Covetrus Holding B.V.,Cuijk,https://covetrus.nl
+425,Van Nelle Tabak Nederland B.V.,Joure,
+426,Hilton Foods Holland,Zaandam,
+427,Norgine B.V.,Amsterdam,https://norgine.com
+428,Quaker Houghton Sales B.V.,Uithoorn,https://home.quakerhoughton.com
+429,Farmina Pet Foods Holding B.V.,Amsterdam,https://farmina.com
+430,Rijk Zwaan Distribution B.V.,De Lier,https://rijkzwaan.nl
+431,Janssen-Cilag B.V.,Breda,https://janssen-cilag.nl
+432,Sakko Holding B.V.,Bergen op Zoom,https://sakkocommercial.nl
+433,ALDI Culemborg B.V.,Culemborg,https://aldi.nl
+434,Abbott Nederland C.V.,Zwolle,https://abbottnederland.nl
+435,Heiploeg International B.V.,Zoutkamp,https://heiploeggroup.com
+436,Oryx Stainless B.V.,Dordrecht,https://oryx.com
+437,Rotterdam Trading Office B.V.,Amsterdam-Duivendrecht,
+438,Reukema Group B.V.,Harderwijk,https://myne.eco
+439,Trivium Packaging Netherlands B.V.,Deventer,https://ardaghgroup.com
+440,PF Consumer Healthcare B.V.,Amersfoort,https://gsk.com
+441,Shimano Europe B.V.,Eindhoven,https://shimano.com
+442,Storteboom Food Group B.V.,Zeewolde,https://storteboom.nl
+443,Astellas Pharma Europe B.V.,Leiden,https://astellas.com
+444,Tate & Lyle Netherlands B.V.,Koog aan de Zaan,https://tateandlyle.com
+445,Nature's Pride B.V.,Maasdijk,https://naturespride.nl
+446,Alnylam Netherlands B.V.,Amsterdam,https://alnylam.com
+447,Aldi Roosendaal,Roosendaal,https://aldi.nl
+448,B&S B.V.,Dordrecht,https://bs-gg.com
+449,B/E Aerospace B.V.,Houten,
+450,SHELL Abu Dhabi B.V.,,
+451,De Stiho Groep B.V.,Nieuwegein,https://dsg.eu
+452,Rexel Nederland B.V.,Zoetermeer,https://rexel.nl
+453,PVO International B.V.,Rosmalen,https://sundemand.nl
+454,Iiyama Benelux B.V.,Hoofddorp,https://iiyama.com
+455,TAPI NL B.V.,Amsterdam,https://tevapharm.com
+456,Enerco B.V.,Buchten,https://enerco.nl
+457,Enerco Holding,Buchten,https://enerco.nl
+458,Pluripharm Holding B.V.,Alkmaar,https://pluripharm.nl
+459,Dayseaday Holding B.V.,Urk,https://dayseaday.nl
+460,Organon Pharma B.V.,Oss,https://organon.com
+461,AgruniekRijnvallei Voer B.V.,Wageningen,https://argroep.nl
+462,SHPP B.V.,Bergen op Zoom,https://sabic.com
+463,Remia B.V.,Den Dolder,https://remia.nl
+464,Simac Techniek N.V.,Veldhoven,https://simac.com
+465,Zeeland Refinery N.V.,Nieuwdorp,https://zeelandrefinery.nl
+466,Lely International N.V.,Maassluis,https://lely.com
+467,ALDI Zoetermeer B.V.,Bleiswijk,https://aldi.nl
+468,Fluke Europe B.V.,Eindhoven,https://fluke.com
+469,KBM Affilips B.V.,Oss,https://kbmaffilips.com
+470,Jan Zandbergen World-Wide Quality in Meat,Veenendaal,https://janzandbergen.nl
+471,Nunhems Netherlands B.V.,Nunhem,https://nunhems.com
+472,Parlevliet en Van der Plas B.V.,Valkenburg,
+473,Ericsson Telecommunicatie B.V.,Breda,https://ericsson.com
+474,Morssinkhof Plastics Zeewolde B.V.,Zeewolde,https://morssinkhofplastics.nl
+475,Eurocept B.V.,Ankeveen,https://eurocept.nl
+476,HunkemÃ¶ller International B.V.,Hilversum,https://hunkemoller.nl
+477,British American Tobacco Exports B.V.,Amstelveen,https://bat.com
+478,Huisman Equipment B.V.,Schiedam,https://huismanequipment.com
+479,Mechan Holding B.V.,Achterveld,https://mechangroep.nl
+480,Chimbusco Europe B.V.,Rotterdam,https://en.chimbusco.com
+481,Amaggi Europe B.V.,Rotterdam,https://amaggi.eu
+482,Batenburg Techniek N.V.,Rotterdam,https://batenburg.nl
+483,Land- en TuinbouwcoÃ¶peratie AgruniekRijnvallei U.A.,Wageningen,https://argroep.nl
+484,Stichting International Dispensary Association,Amsterdam,https://idafoundation.org
+485,Thermo Fisher Scientific B.V.,Breda,https://thermofisher.com
+486,KOGAS Iraq B.V.,Woerden,
+487,Advantech Europe B.V.,Son en Breugel,https://advantech.com
+488,DSV Contract Logistics B.V.,Zevenbergen,https://dsv.com
+489,Asito B.V.,Almelo,https://asito.nl
+490,Scandinavian Tobacco Group Eersel B.V.,Waalre,https://henriwintermans.com
+491,GreenChem Holding B.V.,Breda,https://greenchem-adblue.com
+492,Schweppes International Limited,Amsterdam,https://schweppes.eu
+493,CONO Kaasmakers,Westbeemster,https://cono.nl
+494,ALDI Roermond B.V.,Roermond,https://aldi.nl
+495,Hankook Tire Netherlands B.V.,Hoofddorp,https://hankooktire.com
+496,Bayer B.V.,Hoofddorp,https://bayer.com
+497,Edco Eindhoven B.V.,Eindhoven,https://edco.nl
+498,Kobelco Construction Machinery Europe B.V.,Lelystad,https://kobelco-europe.com
+499,Terberg Benschop B.V.,Benschop,https://terbergspecialvehicles.com
+500,TOZA B.V.,Alphen aan den Rijn,
+501,Gunvor International B.V.,Amsterdam,https://gunvorgroup.com
+502,Esso Nederland B.V.,Botlek Rotterdam,https://esso.nl
+503,Samsung Electronics Europe Logistics B.V.,Delft,https://samsung.com
+504,LATAM AIRLINES GROUP S.A.,Schiphol,https://latamairlinesgroup.net
+505,Koninklijke A-ware Food Group B.V.,Lopik,https://royal-aware.com
+506,Stryker EMEA Supply Chain Services B.V.,Venlo,https://stryker.com
+507,Raben Group N.V.,Oss,https://raben-group.com
+508,Hametha B.V.,Oosterhout,https://hametha.nl
+509,FedEx Express International B.V.,Hoofddorp,https://fedex.com
+510,Handelsveem Beheer B.V.,Rotterdam,https://steinweg.com
+511,Koninklijke Vopak N.V.,Rotterdam,https://vopak.com
+512,N.V. Nederlandse Gasunie,Groningen,https://gasunie.nl
+513,Lineage Dutch CoÃ¶peratief U.A.,Amsterdam,https://lineagelogistics.com
+514,Van Loon Group B.V.,Son en Breugel,https://vanloongroup.com
+515,Seagate Technology (Netherlands) B.V.,Schiphol-Rijk,https://seagate.com
+516,Stolt Tankers B.V.,Rotterdam,https://stolt.nielsen.com
+517,Van Rooi Meat B.V.,Helmond,https://vanrooimeat.nl
+518,CoÃ¶peratie The Greenery U.A.,Barendrecht,https://thegreenery.com
+519,Industrie- en Handelsonderneming Vreugdenhil B.V.,Nijkerk,https://vreugdenhil.com
+520,G.P. Groot B.V.,Heiloo,https://gpgroot.nl
+521,AFG Materials B.V.,Lopik,https://royal-aware.com
+522,Schenker Logistics Nederland B.V.,Tilburg,https://dbschenker.com/nl
+523,Medline International B.V.,Utrecht,https://medline.eu
+524,Neste Netherlands B.V.,Maasvlakte Rotterdam,https://neste.nl
+525,Jan Linders B.V.,Bergen L,https://janlinders.nl
+526,FedEx Express Netherlands B.V.,Hoofddorp,https://fedex.com/nl
+527,BC Distribution B.V.,Woerden,https://beckman.com
+528,BlueStar Europe Distribution B.V.,'s-Gravenhage,https://bluestarinc.com
+529,Scherpenhuizen Holding B.V.,Eindhoven,https://scherpenhuizen.nl
+530,Vertom B.V.,Rhoon,https://vertom.nl
+531,Vergeer Holding B.V.,Reeuwijk,https://vergeerholland.com
+532,ALDI Deventer B.V.,Deventer,https://aldi.nl
+533,DSV Air&Sea Rozenburg,Rozenburg,https://dsv.com/nl
+534,Tamoil Nederland B.V.,Ridderkerk,https://tamoil.nl
+535,NewCold CoÃ¶peratief U.A.,Breda,https://newcold.com
+536,Fresh Trading Supply B.V.,Europoort Rotterdam,
+537,Nichirei Holding Holland B.V.,Rotterdam-Albrandswaard,https://nichirei-logi.co.jp
+538,Agrico,Emmeloord,https://agrico.nl
+539,Amaggi Europe B.V.,Rotterdam,https://amaggi.eu
+540,Decathlon Netherlands B.V.,Amsterdam,https://decathlon.nl
+541,Reputation,De Lier,https://reputation.nl
+542,Obot,Bergen op Zoom,https://sakkogroep.nl
+543,Combilo Beheer B.V.,Waddinxveen,https://combilo.nl
+544,Van Wijk en Olthuis B.V.,Dronten,https://wijkenolthuis.nl
+545,Van Wijk en Olthuis Beheer B.V.,Dronten,https://wijkenolthuis.nl
+546,ID Logistics Benelux B.V.,Tilburg,https://id-logistics.com
+547,Medtronic B.V.,Heerlen,
+548,O. Smeding en Zoon B.V.,St.-Annaparochie,https://smeding.nl
+549,Frankort & Koning B.V.,Venlo,https://frankort.nl
+550,Daiwa House Modular Europe Jan Snel B.V.,Montfoort,https://daiwahousemodular.eu
+551,Rotterdam World Gateway B.V.,Maasvlakte Rotterdam,https://rwg.nl
+552,Nippon Express (Nederland) B.V.,Schiphol-Rijk,https://nipponexpress.com
+553,Dachser Netherlands B.V.,Zevenaar,https://dachser.nl
+554,Fransen Gerrits,Erp,https://fransengerrits.nl
+555,Roveg Onroerend Goed B.V.,Linschoten,https://roveg.nl
+556,Gate terminal,Maasvlakte Rotterdam,https://gateterminal.nl
+557,Peka Kroef B.V.,Odiliapeel,https://pekakroef.nl
+558,Luiten Food B.V.,Leidschendam,https://luitenfood.com
+559,Koopman Logistics Group B.V.,Leek,https://koopman.nl
+560,Van Oers United B.V.,Dinteloord,https://primealeunited.com
+561,Rotom Europe B.V.,Son en Breugel,https://rotom.nl
+562,Van den Bosch,Erp,https://vandenbosch.com
+563,TP Haluco Holding B.V.,Bleiswijk,https://haluco.nl
+564,Verhey Vlees,Nuth,https://vanloongroup.com
+565,DSV Road B.V.,Sevenum,https://dsv.com
+566,Hessing Zwaagdijk B.V.,Zwaagdijk-Oost,https://hessingsupervers.nl
+567,Staay Food Group B.V.,Papendrecht,
+568,Van der Vlist Transportgroep B.V.,Groot-Ammers,https://vandervlist.com
+569,J.A.M. de Rijk B.V.,Roosendaal,https://janderijk.com
+570,Nederlandse Particuliere Rijnvaart-Centrale CoÃ¶peratie U.A. (bij afkorting CoÃ¶peratie N.P.R.C. U.A.),Rotterdam,https://nprc.eu
+571,Dunea N.V.,Zoetermeer,https://dunea.nl
+572,Vogelaar-Vredehof Beheer B.V.,Krabbendijke,https://vogelaar.com
+573,Koninklijke Vezet B.V.,Warmenhuizen,https://vezet.nl
+574,DLG Logistics B.V.,Nieuwe-Tonge,https://dlg-logistics.com
+575,Van de Reyt Meststoffen B.V.,Moerdijk,https://vdreijtfert.nl
+576,HES Bulk Terminal Rotterdam B.V.,Maasvlakte Rotterdam,https://hesinternational.eu
+577,Banken Champignons Groep B.V.,Wijchen,https://bankenchampignons.com
+578,Den Hartogh Global B.V.,Rotterdam,https://denhartogh.com
+579,Central European Potato Ventures B.V.,Oudenhoorn,
+580,Meeder Management B.V.,Barendrecht,https://meeder.nl
+581,Chane Terminal Botlek B.V.,Rotterdam,https://chane.eu
+582,DeliBarn Nederland B.V.,Wijchen,https://langeveld-sleegers.nl
+583,Marees en Kistemaker B.V.,Kolhorn,https://avia-international.com
+584,Vogelaar-Vredehof B.V.,Krabbendijke,https://vogelaar.com
+585,Nabuurs B.V.,Haps,https://nabuurs.nl
+586,KLG Europe Venlo B.V.,Venlo,https://klgeurope.com
+587,Match Venlo Holding B.V.,Venlo,https://jp-international.nl
+588,Farm Trans B.V.,Zevenbergen,https://farmtrans.com
+589,Slagerij Kaldenberg B.V.,Vuren,https://kaldenberg.nl
+590,J.H.C. de Rooy Holding B.V.,Son en Breugel,https://derooy.com
+591,G.M. de Rooy & Zn. Internationaal Transportbedrijf Eindhoven B.V.,Son en Breugel,https://derooy.com
+592,Nedato B.V.,Oud-Beijerland,https://nedato.nl
+593,Koninklijke Euser B.V.,Barendrecht,https://euser.nl
+594,DMT B.V.,Maasvlakte Rotterdam,https://ect.nl
+595,Seacon Logistics B.V.,Venlo,https://seaconlogistics.com
+596,BioCore B.V.,Amsterdam,https://biocore.nl
+597,Wegochem Europe B.V.,Breda,https://wegochem.com
+598,Goodpack Europe B.V.,Maastricht-Airport,https://goodpack.com
+599,A2B-online Container B.V.,Hazerswoude-Dorp,https://a2b-online.com
+600,GEODIS CL Netherlands B.V.,Venlo,https://geodis.com
+601,Berner Logistics Kerkrade B.V.,Kerkrade,https://shop.berner.eu
+602,ID Freight Netherlands B.V.,Tilburg,https://gvt.nl
+603,Verhoek Internationaal Transport B.V.,Genemuiden,https://verhoek-europe.com
+604,Limax Holding B.V.,Horst,https://limax.nl
+605,Van Ravenswaaij Veenendaal Beheer B.V.,Veenendaal,https://ravenswaaij.nl
+606,Wrist-Klevenberg Ship Supply NL B.V.,Rotterdam,https://klevenberg.com
+607,Stichting Centraal Orgaan Voorraadvorming Aardolieproducten,Rotterdam,https://cova.nl
+608,JAS Forwarding (Netherlands) B.V.,Aalsmeer,https://jas.com
+609,GXO LOGISTICS NETHERLANDS B.V.,Eindhoven,https://xpo.com
+610,Schavemaker Logistics B.V.,Beverwijk,https://schavemaker.com
+611,Garmin Nederland B.V.,Eemnes,https://garmin.com
+612,Matrans Rotterdam Terminal B.V.,Pernis Rotterdam,https://matransrotterdamterminal.com
+613,Raben Netherlands B.V.,Oss,https://nederland.raben-group.com
+614,Oegema Transport Dedemsvaart B.V.,Dedemsvaart,https://oegematransport.nl
+615,Heijs Food Products B.V.,Hoogeveen,https://heijsfoodproducts.nl
+616,Tielbeke Logistiek B.V.,Lemelerveld,https://tielbeke.com
+617,Beheer- en Exploitatiemaatschappij Zijderlaan B.V.,Stolwijk,https://zijderlaan.nl
+618,Toll Global Forwarding,Rotterdam,https://tollgroup.com
+619,Getru Holding B.V.,Bleiswijk,
+620,Getru Logistics B.V.,Bleiswijk,https://getru.nl
+621,Zeevisgroothandel V.S.V.-van Slooten Vis IJmuiden,Ijmuiden,https://vsv-ijmuiden.nl
+622,Nedcargo Transport & Distributie B.V.,Haaften,https://nedcargo.com
+623,TNT Holdings B.V.,Hoofddorp,https://tnt.com
+624,Post Vastgoed B.V.,Finsterwolde,https://pkfpost.nl
+625,Plukon Convenience Dronten B.V.,Dronten,https://plukon.nl
+626,LOGISTEED Europe B.V.,Waardenburg,
+627,Menken Vleeswarensnijlijn B.V.,Sassenheim,https://demenkenkeuken.nl
+628,Transportonderneming Zijderlaan B.V.,Stolwijk,https://zijderlaan.nl
+629,Evos Amsterdam West B.V.,Amsterdam,https://evos.eu
+630,REMONDIS Containers B.V.,Son en Breugel,https://remondisnederland.nl
+631,Nedcargo Logistics B.V.,Haaften,https://nedcargo.com
+632,LPR Europe B.V.,Rijswijk,https://europoolgroup.com
+633,Lavenir Beheer B.V.,Harskamp,https://polskamp.nl
+634,Unit 45 B.V.,Rotterdam,https://unit45.com
+635,Pluimveeslachterij Gebr. Heijs B.V.,Leek,https://heijsgroep.nl
+636,Kees in 't Veen Beheer B.V.,Europoort Rotterdam,https://itt-europoort.nl
+637,Sieuwerd Pieters B.V.,Leeuwarden,https://pax.nl
+638,Bege Beheer B.V.,Ijsselmuiden,https://wezenberg.nl
+639,Mitsubishi Logistics Europe B.V.,Ridderkerk,https://mitsubishi-logistics.co.jp
+640,Evos Amsterdam East B.V.,Amsterdam,https://evos.eu
+641,BTT Multimodal Container Solutions B.V.,Tilburg,https://bttilburg.nl
+642,Jarola Central Services B.V.,Lutten,https://jarola.com
+643,Floriway Logistics B.V.,Aalsmeer,https://floriway.com
+644,Nedcargo Food & Beverages B.V.,Waddinxveen,https://food-express.nl
+645,Jeans Centre B.V.,Alblasserdam,https://jeanscentre.nl
+646,Eurotank Amsterdam B.V.,Amsterdam,https://vtti.com
+647,Iede Kramer Beheer B.V.,Urk,https://kramerfish.nl
+648,Gebr. Alblas Holding B.V.,'s-Gravendeel,https://alblas.nl
+649,Movianto Nederland B.V.,Oss,https://movianto.com
+650,Den Hartogh Gas Logistics B.V.,Rotterdam,https://denhartogh.com
+651,A2B-Online B.V.,Hazerswoude-Dorp,https://a2b-online.com
+652,Lenger Seafoods Yerseke B.V.,Yerseke,https://lengerseafoods.nl
+653,Euro Tank Terminal B.V.,Europoort Rotterdam,https://ett-bv.nl
+654,Vesta Terminals B.V.,Utrecht,https://vestaterminals.com
+655,TMA Terminals B.V.,Amsterdam,https://meo.nl
+656,Leco Europe B.V.,Geleen,https://eu.leco.com
+657,HES Bulk Terminal Maasdelta B.V.,Europoort Rotterdam,https://hesinternational.eu
+658,CoÃ¶peratie Nedato U.A.,Oud-Beijerland,https://nedato.nl
+659,Modexpress B.V.,Helmond,https://modexpress.eu
+660,Grundfos Nederland B.V.,Almere,https://grundfos.com
+661,Melkweg|Fritom,Bolsward,https://melkwegfritom.nl
+662,Chep Scandinavia B.V.,Leiderdorp,https://chep.com
+663,Wemmers Group B.V.,Bleskensgraaf Ca,https://wemmers.nl
+664,GEODIS RT Netherlands B.V.,Lekkerkerk,https://geodis.com
+665,Nabuurs Transport B.V.,Haps,https://nabuurs.nl
+666,Evos Rotterdam B.V.,Europoort Rotterdam,https://evos.eu
+667,BAK Flexibles B.V.,Heemstede,
+668,SIRVA B.V.,Rotterdam,https://sirva.com
+669,Apex Global Logistics (NL) B.V.,Oude Meer,https://apexglobe.com
+670,DP World Chemical Transport B.V.,Barendrecht,https://imperiallogistics.com
+671,Sanders | Fritom,Uden,https://sandersfritom.nl
+672,G.B. van Pelt Beheer B.V.,Rotterdam,https://cleve.nl
+673,GEODIS SCO Netherlands B.V.,Rotterdam-Albrandswaard,https://geodis.com
+674,Dachser Netherlands Food Logistics B.V.,Holten,https://muller.nl
+675,Fatrans Zwaagdijk B.V.,Amsterdam,https://fatrans.nl
+676,Evos Terneuzen B.V.,Hoek,https://evos.eu
+677,Bouter Cheese B.V.,Culemborg,https://ahkc.nl
+678,Kees in 't Veen Tanktransporten B.V.,Europoort Rotterdam,https://intveen.nl
+679,Navigator Terminals Thames Limited B.V.,,https://navigatorterminals.com
+680,Kidkraft Holdings B.V.,Eindhoven,https://kidkraft.com
+681,Koopman Cargo B.V.,Noordhorn,https://koopman.nl
+682,LBC Rotterdam B.V.,Botlek Rotterdam,https://lbctt.com
+683,Sunoco Amsterdam Terminal B.V.,Amsterdam,https://zenithterminals.com
+684,Standic B.V.,Dordrecht,https://standic.com
+685,Veenstra|Fritom,Heeg,https://veenstrafritom.nl
+686,Access World (Rotterdam) B.V.,Hoogvliet Rotterdam,https://accessworld.com
+687,H. Essers Logistics Services Company Nederland B.V.,Bergen op Zoom,https://mepavex.nl
+688,Oldenburger|Fritom,Veendam,https://oldenburgerfritom.nl
+689,Wagenborg Transport B.V.,Delfzijl,https://reining.nl
+690,AS 24 Nederland B.V.,'s-Gravenhage,https://as24.com
+691,KATOEN NATIE AMSTERDAM,Amsterdam,https://unicontrol.com
+692,GP Logistics Services,Kerkrade,
+693,Access World Netherlands B.V.,Nieuwdorp,https://accessworld.com
+694,Den Hartogh Trucking Food,Barneveld,https://hs-group.eu
+695,Nabuurs Logistiek B.V.,Haps,https://nabuurs.nl
+696,Direct Fruit Services B.V.,Vleuten,https://directfruitservices.nl
+697,Koopman TransMission Noordhorn,Noordhorn,https://koopmantransmission.nl
+698,Cosco Shipping Lines (Netherlands) B.V.,Rotterdam,https://world.lines.coscoshipping.com
+699,Leen Menken Foodservice Logistics B.V.,Zoetermeer,https://leenmenken.nl
+700,Lineage Bergen op Zoom B.V.,Bergen op Zoom,https://partnerlogistics.nl
+701,Den Hartogh Trucking B.V.,Rotterdam,https://denhartogh.com
+702,Rail Service Center Rotterdam B.V.,Rotterdam,https://rscrotterdam.nl
+703,DLG Equipment B.V.,Nieuwe-Tonge,https://dlg-logistics.com
+704,Liquin Terminal TTR B.V.,Botlek Rotterdam,https://vopakbenelux.com
+705,GWG International B.V.,Nieuwleusen,https://westermanlogistics.com
+706,Schneider Electric Logistic Centre B.V.,Helmond,
+707,Transportbedrijf Steven van den Brink en Zonen B.V.,Ermelo,https://stvandenbrink.nl
+708,Daalimpex Velsen B.V.,Velsen-Noord,https://kloosterboer.com
+709,Liquin Terminal Chemiehaven B.V.,Botlek Rotterdam,https://vopak.com
+710,Lineage Rotterdam Maasvlakte B.V.,Maasvlakte Rotterdam,https://kloosterboer.nl
+711,The LYCRA Company Nederland B.V.,Kerkrade,
+712,TANITA Europe B.V.,Amsterdam,https://tanita.eu
+713,GP Groot inzameling en recycling B.V.,Alkmaar,https://gpgroot.nl
+714,De Koeijer Transport B.V.,Yerseke,https://koeijer.com
+715,Logistics Solutions B.V.,'s-Gravenhage,https://mikropakket.nl
+716,Maastricht Aachen Airport B.V.,Maastricht-Airport,https://maa.nl
+717,Indaver Compost B.V.,Dordrecht,https://indaver.nl
+718,Bertschi B.V.,Botlek Rotterdam,https://bertschi.com
+719,Liquin B.V.,Botlek Rotterdam,https://vopak.nl
+720,H.M.A. Blonk B.V.,,https://blonkagri.com
+721,H.M.A. Blonk Beheer B.V.,,https://blonkagri.com
+722,Tielbeke Transport B.V.,Lemelerveld,https://tielbeke.nl
+723,Nabuurs RDC B.V.,Haps,https://nabuurs.nl
+724,Bode Scholten B.V.,Zoetermeer,https://bode-scholten.nl
+725,Vopak Terminal Vlissingen B.V.,Nieuwdorp,https://vopak.nl
+726,Udea B.V.,Veghel,https://udea.com
+727,LerÃ¸y Seafood Netherlands B.V.,Urk,https://leroyseafood.nl
+728,Freight Frame B.V.,Haps,https://freightframe.com
+729,Nationale en Internationale Wegvervoer Organisatie,Rijswijk,https://niwo.nl
+730,Gerlach & Co. Internationale Expediteurs B.V.,Venlo,https://gerlachcs.com
+731,C.T.T.,Hengelo,https://ctt-twente.nl
+732,Commodities Terminal Verbrugge B.V.,Terneuzen,
+733,"Stichting Voedselbanken Nederland, Regio Rotterdam",Rotterdam,https://voedselbank.nl
+734,Bode Scholten Opslag B.V.,Zoetermeer,
+735,Nedcargo Excise Services B.V.,Haaften,
+736,Fiege Logistics Netherlands B.V.,Zaandam,https://fiege.com
+737,2 X T Sneltransport,St. Willebrord,https://2xt.nl
+738,Stichting Shareaty,Rotterdam,https://shareaty.nl
+739,Zeeuwgrond B.V.,Nieuwdorp,https://zeeuwgrond.nl
+740,Stichting Groente & Fruit voor Voedselbanken,Houten,https://groentefruitbrigade.nl
+741,Arabesk,Middelburg,
+742,SilviCarbon B.V.,Rotterdam,https://silvicarbon.com
+743,"Stichting Regionaal Distributiecentrum Voedselbanken Nederland, Regio Groningen",Groningen,https://voedselbank-groningen.nl
+744,Safe Store Walcheren B.V.,Vlissingen,
+745,W. Bryan Agrarisch loonbedrijf,Klazienaveen,
+746,Handelsonderneming Van Daele,Dronten,
+747,Klaas Ootjers Groentehandel B.V.,Broek op Langedijk,
+748,Wegtransport Kerkhof,Mill,
+749,"Koel- en Verwerkingsbedrijf ""Haan-Bedum""",Noordwolde,
+750,EuroSprint,Hulsberg,https://eurosprint.eu
+751,VOF Vereecken Agro,Kloosterzande,
+752,T.W.M.,Haarlem,
+753,Peter Binnendijk Trucking,Bodegraven,
+754,Encore Arts & Parts,Amsterdam,https://botenvervoer.nl
+755,CoÃ¶peratieve Diepvriesvereniging 'De Vliegehoek'U.A.,Vierakker,
+756,De Zwaluwstaart,Eefde,https://zwaluwstaart.eu
+757,Pally Lean Logistics B.V.,Nieuwegein,
+758,K.C. Katier,Bentelo,
+759,Fab Fulfillment Europe B.V.,Eindhoven,
+760,MOBOX,Noordwijkerhout,https://mobox.nl
+761,Clemens Logistics B.V.,Kerkrade,
+762,Z.H.V. Verhuur V.O.F.,Cuijk,https://zhvverhuur.nl
+763,Frigolanda Warehousing Beuningen B.V.,Dongen,
+764,Doski Transport,Almere,https://plengtransport.com
+765,ALLSAFE mini opslag Vastgoed Tilburg Oude Rielseweg B.V.,Tilburg,
+766,ALLSAFE mini opslag Vastgoed Amsterdam Joan Muyskenweg B.V.,Amsterdam-Duivendrecht,
+767,Van Vieren Exploitatie B.V.,Amstelveen,
+768,NB Sneltransport,Pijnacker,
+769,By Djuke,Varsseveld,
+770,Tielbeke en Co Bedrijfsruimten,Dedemsvaart,https://tielbeke-co.nl
+771,Gebrs. Kuyf B.V.,Nieuwkoop,https://gebrkuyf.nl
+772,IBS Verhuizingen & Opslag B.V.,Obdam,https://deverhuisspecialist.nl
+773,Nolten & van Bergenhenegouwen,'s-Gravenhage,
+774,Koyanagi Worldwide Ltd,Hoofddorp,
+775,Aphrodite Marble Centre,Hellevoetsluis,
+776,Van Teelt tot Oogst B.V.,Sint Philipsland,https://reijnpack.nl
+777,Self Storage Roermond,Roermond,
+778,Transportbedrijf en Brandstoffenhandel A. van der Elst,Nieuwerkerk aan den Ijssel,
+779,Asya Transport,Rotterdam,
+780,"Pattern, Inc.",Venlo,https://pattern.com
+781,Trust Logistics,Eindhoven,
+782,Baltus Transport,Olst,
+783,ALLSAFE robotic storage Vastgoed Utrecht Reactorweg B.V.,Utrecht,
+784,R.F.T. Warehousing B.V.,Roosendaal,
+785,Duersaam Vastgoed B.V.,Terneuzen,
+786,ALLSAFE mini opslag Exploitatie Den Bosch Docterskampstraat B.V.,'s-Hertogenbosch,
+787,Nodi B.V.,Bergen op Zoom,
+788,Fulfilment by BR,Houten,https://fulfilmentbybr.com
+789,Valke transport,Emmen,
+790,Comgoed Handling B.V.,Dirksland,
+791,Bergbox,Harderwijk,https://bergbox.nl
+792,Olinks B.V.,Rotterdam,
+793,Merwetank Dordrecht B.V.,Dordrecht,https://merwetank.nl
+794,Maasvlakte Olie Terminal N.V.,Maasvlakte Rotterdam,https://mot.nl
+795,Tank Cleaning Sint-Oedenrode B.V.,Sint-Oedenrode,
+796,ALLSAFE mini opslag Exploitatie Hengelo Enschedesestraat B.V.,Weesp,
+797,Johannes Distributie B.V.,'t Loo Oldebroek,
+798,Smashbroâs,Westzaan,
+799,Zeelandsedijk Vastgoed B.V.,Volkel,https://opslaginelsendorp.nl
+800,Hugo van Rooijen Verhuurbedrijf,Utrecht,
+801,ALLSAFE mini opslag Vastgoed Eindhoven Hugo van der Goeslaan B.V.,Eindhoven,
+802,Firma E. Rademaker en Zonen,Koudekerk aan den Rijn,
+803,Smillions Group B.V.,Heeze,
+804,Sieb4U v.o.f.,Oss,https://sieb4u.nl
+805,Van Dam Opslag en Archief B.V.,Doetinchem,
+806,Rob Aarts Transport,Hilversum,
+807,Novo Transport B.V.,'s-Gravenhage,
+808,Tegeloutlet Center,Uithoorn,
+809,AWS Logistieke Dienstverlening,Vaassen,
+810,Smets Food Trading B.V.,Bunde,https://smetsfoodtrading.com
+811,JET Transport,Leeuwarden,https://jetkoeriers.nl
+812,Age Trans,Ens,
+813,Translinco International,Rotterdam,
+814,Toine de Jong Transport,Steenbergen,
+815,V.o.f. Mulder Overslag,Meliskerke,
+816,Bouwense City Store v.o.f.,Middelburg,https://bouwensekoeriers.nl
+817,Fourmidable,Hilversum,
+818,ROJ Transport,Gorredijk,
+819,D.P.J. Peeters Transportbedrijf B.V.,Sevenum,https://peetersmols.nl
+820,Babylon Delivery Service,Haarlem,
+821,Maatschap H.J. van den Berg en M. van den Berg-Kuiper,Zwolle,
+822,Lomi Transport,Leiden,
+823,De Schillerij,Woubrugge,https://deschillerij.nl
+824,Irmis Bouw & Transportation,Roosendaal,
+825,J. van Gils Transport,Made,
+826,Olijfboompje,'s-Hertogenbosch,
+827,Foodbuildings Amsterdam B.V.,Amsterdam,
+828,Max Unger,'s-Gravenhage,
+829,Monike Services,Lelystad,
+830,Varga Jobs,Roosendaal,
+831,ABS Logistics,Utrecht,https://abslogistics.com
+832,ALLSAFE mini opslag Exploitatie Leiderdorp Persant Snoepweg B.V.,Weesp,
+833,Cargocouriers B.V.,Rotterdam,https://cargocouriers.nl
+834,Storage Share E3 B.V.,Amsterdam,
+835,Agrarisch Bedrijf Rovers Hoekstraat 2a V.O.F.,Venhorst,
+836,Baromi B.V.,Kerkdriel,
+837,H.K. express,Breda,
+838,Pax Dedicated Transport B.V.,Heerenveen,https://pax.nl
+839,Schieten en Nieten,Wateringen,https://nietenenschieten.nl
+840,Akakus Oil Operations B.V.,Amsterdam,
+841,M. Bakker Holding B.V.,Sassenheim,https://kistenfabriek.nl
+842,STE Transport B.V.,Nieuwleusen,https://stetransport.com
+843,Van 't Kruis Bulk Logistics B.V.,Nieuwveen,https://kruistransport.com
+844,Korevaar Logistics B.V.,Klundert,https://korevaarlogistics.nl
+845,ATS Transport B.V.,Wijchen,https://atstransportbv.nl
+846,Thomas Boers B.V.,Hoek van Holland,https://thomasboers.nl
+847,Trimodal Europe B.V.,Hoogvliet Rotterdam,https://trimodal-europe.com
+848,Doeleman Holding B.V.,Waddinxveen,https://doeleman.nl
+849,Transportbedrijf Van Straalen B.V.,Hoogkarspel,https://transportvanstraalen.nl
+850,Logistiek Centrum Stad Alkmaar B.V.,Alkmaar,https://stadalkmaar.nl
+851,D.S.S. Opslag B.V.,Emmeloord,
+852,Cars&Cargo Automotive B.V.,Teteringen,
+853,CAPLINQ Europe B.V.,Assendelft,https://caplinq.com
+854,Ventrex Logistics B.V.,Venlo,https://ventrex.nl
+855,Amsterdam Safe B.V.,Alkmaar,https://amsterdamsafe.nl
+856,Pakhuis Coenplein B.V.,Oostzaan,
+857,Sitra Nederland B.V.,Rotterdam,https://sitra-group.com
+858,Bultsma Transport B.V.,Andijk,https://bultsma.nl
+859,Hogenhout opslag & logistiek B.V.,Amstelveen,https://hogenhout-logistiek.nl
+860,Wayland Industries Holding B.V.,Amstelveen,
+861,Nes Transport B.V.,Barneveld,
+862,M. Smetsers Logistics,Oudheusden,
+863,Internationaal Transportbedrijf v. Ooij,Doetinchem,
+864,Cornelissen Bleiswijk B.V.,Bleiswijk,
+865,Aarts Conserven Holding B.V.,Lottum,https://aartsconserven.nl
+866,P.J. Simons B.V.,Venlo,https://simonstransport.nl
+867,SBR European Express B.V.,Reuver,https://sbrexpress.nl
+868,Aardappelgroothandel Altena B.V.,Veen,https://altenapotatoes.com
+869,Kaasmakerij De Jong B.V.,Alphen,https://dejongcheese.nl
+870,Kelvin Terminals B.V.,Terneuzen,https://kelvinterminals.com
+871,Jos Heeren Transport B.V.,Hilvarenbeek,https://jos-heeren.nl
+872,Funghi Farms B.V.,Lierop,https://agricollectief.com
+873,Shellfish Beheer B.V.,Yerseke,
+874,Gewe Beheer B.V.,Hapert,https://vdhtransport.eu
+875,DL Fresh Logistics B.V.,Bleiswijk,https://dl.nl
+876,Boere Beheer B.V.,Oudenhoorn,https://boeretransport.nl
+877,Marni Fruit,Barendrecht,https://marnifruit.nl
+878,Transportbedrijf G. Kuijf en Zonen B.V.,Utrecht,https://kuijf-transport.nl
+879,Contitank Exploitatie B.V.,Farmsum,https://contitank.eu
+880,Rotterdam Fruit Wharf B.V.,Rotterdam,https://sea-invest.com
+881,Transport- en Handelsonderneming J. Wiegersma B.V.,Amsterdam,https://katoennatie.com
+882,C. Rijswijk Beheer B.V.,Edam,
+883,Prins' Internationaal Transportbedrijf B.V.,Purmerend,https://prinstransport.nl
+884,P. de Jongh B.V.,'s-Gravenhage,https://sfifruit.com
+885,Venlogistics B.V.,Venlo,https://venlogistics.nl
+886,Broekman Logistics Rotterdam B.V.,Rotterdam,https://broekmanlogistics.com
+887,CollÃ© Aardappelen B.V.,Sittard,
+888,Abrex horeca logistics,'s-Hertogenbosch,https://abrex.nl
+889,C.H. Dekker Transport B.V.,Ilpendam,https://chdekker.nl
+890,G.H.J. Zwart Transport en Beheer B.V.,Sprang-Capelle,
+891,C.A. Oskam Neerijnen B.V.,Vleuten,https://janoskam.nl
+892,Endeavour B.V.,Lemmer,
+893,Schotpoort Connect B.V.,Eerbeek,https://schotpoort.nl
+894,BitStone B.V.,Rotterdam,
+895,Q3 Noord B.V.,Moerdijk,
+896,VSDV LogistiX B.V.,Zwaagdijk-Oost,https://vsdv.nl
+897,J.A. Vermeij Logistics B.V.,Renswoude,https://vermeijlogistics.nl
+898,Blue Omnia B.V.,Tilburg,
+899,Spiegelaar Transport B.V.,Veenoord,
+900,I-Pack B.V.,Hengelo,https://i-pack.nu
+901,Hanport Logistics B.V.,Schiphol-Rijk,
+902,Tape Converters Holland B.V.,Weert,https://tacon.nl
+903,Rietveld Pallets B.V.,Utrecht,https://haardhoututrecht.nl
+904,ProMax Transport en Logistiek B.V.,Rotterdam,https://promaxkoeriers.nl
+905,PARM Logistics B.V.,Rijswijk,
+906,Transsupply B.V.,'s-Gravendeel,https://flycargo.nl
+907,Vredeveld Twente B.V.,Hoogersmilde,https://vredeveld.eu
+908,Transportcentrale Rotterdam Freight Forwarding B.V.,Rotterdam,https://tcrotterdam.nl
+909,Nautica Binnenscheepvaart B.V.,Zwijndrecht,https://nautica-scheepvaart.nl
+910,Portena Logistiek B.V.,Heerenveen,https://portena.nl
+911,Stefco Logistic Services B.V.,Andelst,https://tiemex.nl
+912,Internationaal Transportbedrijf Kuijs B.V.,Vlijmen,https://kuijs-transport.nl
+913,Euro-Rijn XL Logistics B.V.,Moerdijk,https://koolwijk-logistics.com
+914,Kernile Europe B.V.,Rotterdam,
+915,Milieu Service Brabant B.V.,Boxtel,https://msb.nu
+916,Grolleman Douane Expediteurs B.V.,Apeldoorn,https://grolleman.com
+917,Scholten Groep B.V.,Zoetermeer,https://bode-scholten.nl
+918,Spectrum EMEA B.V.,Katwijk,
+919,Maximus Transport B.V.,Hoofddorp,
+920,Neerlandia Urk Handel en Beheer B.V.,Urk,
+921,P.W. van der Waal & Zn B.V.,Strijen,https://loonverpakking.com
+922,Holland Vastgoed Groep B.V.,Amsterdam,https://hvg-bv.nl
+923,Stoter Bouwgrondstoffen,Ijsselmuiden,https://stoter.nl
+924,DETA Logistics B.V.,Gendt,
+925,Logicall SCS Bleiswijk B.V.,Bleiswijk,https://drakeandfarrell.com
+926,Waaijenberg Groep B.V.,Ede,
+927,Kistenmakerij Twente B.V.,Borne,https://kistenmakerijtwente.nl
+928,R.C.C. Container Trading B.V.,Botlek Rotterdam,https://rcc-containers.com
+929,Snel Verspreiden B.V.,Rotterdam,https://snelverspreiden.nl
+930,Swagemakers Intermodaal Transport B.V.,Westdorpe,
+931,Dekker Tankopslag B.V.,Ouderkerk aan den Ijssel,https://dekkergroep.com
+932,Van Reenen Barneveld Beheer B.V.,Barneveld,https://reenen.nl
+933,Kattenberg Verhuizingen B.V.,Nunspeet,https://kattenberg.nl
+934,Premium Storage B.V.,Rotterdam,
+935,Viam Storage and Repair B.V.,Houten,
+936,Van Hooft Transport B.V.,Hoevelaken,https://vanhooft-transport.nl
+937,Nomi Co-Packing,Etten-Leur,https://nomi.nl
+938,VERVAEKE MULTIMODAL B.V.,Herkenbosch,https://vervaeke.com
+939,Top Delivery Services B.V.,Almere,https://topdeliveryservices.nl
+940,MLM Fulfilment,Dordrecht,
+941,Bilbo Schades,Eindhoven,
+942,KS Project Logistics B.V.,Moerdijk,https://ksprofile.com
+943,Peppadew International Europe B.V.,Schiphol-Rijk,https://peppadew.com
+944,Cornelis Vrolijk International I,Ijmuiden,https://cornelisvrolijk.eu
+945,Brink XL B.V.,Enter,https://brinkxl.nl
+946,Maasoever Processing,Waspik,https://maasoever.com
+947,Blokland Cold Stores Cuijk B.V.,Cuijk,https://bloklandcoldstores.com
+948,TWM Trading B.V.,Arnhem,https://banden-inn.nl
+949,Van Thiel Transport B.V.,Hierden,https://vanthiel.nl
+950,Any E-Commerce Solutions B.V.,Weert,
+951,Trexico Logistics B.V.,Gilze,https://trexico.nl
+952,Hogenhout Transport Groep B.V.,Amstelveen,https://hogenhout-logistiek.nl
+953,Geo Tankopslag B.V.,Barendrecht,https://geobv.nl
+954,Storagedeal B.V.,Best,https://storagedeal.eu
+955,World Container Company B.V.,Vondelingenplaat Rotterdam,https://activecontainers.nl
+956,Brouwer Zwaar en Speciaal Transport B.V.,Nieuwegein,https://brouwer-speciaaltransport.nl
+957,Ivar B.V.,Vught,
+958,Team Freight Forwarding B.V.,Joure,https://tfflogistics.com
+959,Alma Logistics B.V.,Barendrecht,
+960,Gebr. Pothuizen B.V.,Culemborg,https://gebr-pothuizen.nl
+961,Alma Logistics B.V.,Barendrecht,
+962,Van Brakel Transport,Rotterdam,
+963,Ivar B.V.,Vught,
+964,Alldeclare L.C.S. B.V.,Lisserbroek,
+965,Handels- en Internationaal Transportonderneming L.A. Verkley B.V.,Papekop,
+966,HolwerdaAutotechniek,Ferwert,https://holwerda-autotechniek.nl
+967,Standby Logistics B.V.,Amstelveen,https://standbylogistics.nl
+968,R2 Speciaal Transport B.V.,Schiedam,https://r2transport.nl
+969,Design Warehousing B.V.,Rotterdam-Albrandswaard,https://designlogistics.nl
+970,Kwetters Logistiek Barneveld B.V.,Barneveld,
+971,Van der Wal Exceptioneel Transport B.V.,Utrecht,
+972,Schipper Safestore Services B.V.,Rhenen,https://kunstverkopen.nl
+973,Het Lachende Zwijn B.V.,Den Dungen,
+974,Vloerenbedrijf van Rijbroek B.V.,Uden,https://rijbroekvloeren.nl
+975,Verstegen-Adam Transportgroep B.V.,Venhorst,https://verstegen-adamtransportgroep.nl
+976,ID Freight Alkmaar B.V.,Alkmaar,https://gvt.nl
+977,Kubic Verhuur B.V.,Amsterdam,
+978,Jiftach B.V.,Harderwijk,
+979,De Groot Rentals B.V.,Wouw,
+980,Pluim Transport B.V.,Apeldoorn,https://pluimapeldoorn.nl
+981,Smit Re-Use Logistics B.V.,Ridderkerk,https://vdgm.nl
+982,Okebox B.V.,Volendam,
+983,DTS Armory B.V.,Roermond,https://dts-armory.com
+984,Bos Vogelvoederfabriek B.V.,Maastricht,
+985,Freight Centre B.V.,Nederweert,
+986,Gebr. Pothuizen B.V.,Culemborg,https://gebr-pothuizen.nl
+987,Van Leeuwen Container Service B.V.,Oosterhout,https://vlcs.com
+988,World Courier Holland B.V.,Hoofddorp,https://worldcourier.com
+989,ter Laak Transport B.V.,Heino,https://terlaakheino.nl
+990,Mourik Transport,Brandwijk,https://loonbedrijfmourik.nl
+991,Oldenburger Transport B.V.,Aalsmeer,https://oldenburgertransport.com
+992,De Geus & Van Splunter B.V.,Hellevoetsluis,https://mdegeustransport.nl
+993,Atlas Transport,Rotterdam,
+994,Dakka Transport,Zwolle,
+995,Tank Asset Management B.V.,Rotterdam,
+996,Steel Trans Nederland B.V.,Spijkenisse,https://steeltrans.com
+997,Oostvogels Logistics B.V.,Breda,https://oostvogels.nl
+998,Klomp Transport B.V.,Harderwijk,https://klomp.com
+999,ECW Logistics B.V.,Barendrecht,https://ecw-logistics.com
+1000,Nouvion,Veghel,
